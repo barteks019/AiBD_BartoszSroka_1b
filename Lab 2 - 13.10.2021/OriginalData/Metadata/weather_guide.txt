@@ -1,0 +1,4 @@
+Analizowane dane dotyczną pomiarów temperatury oraz średnich opadów w stacji badawczej w Meksyku o id = MX00001704.
+Pomiary realizowane są od każdego dnia miesiąca od roku 1955 do roku 2011.
+Temperatura nie może być mniejsza niż 243 stopnie Kelwina oraz większa niż 313 [K].
+W rzeczywistym układzie temperatura minimalna powinna być mniejsza od temperatury maksymalnej.
