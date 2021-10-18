@@ -1,0 +1,8 @@
+Dokument zawiera informację o wynikowych plikach powstałych w jupyter Notebook (clean_data.ipynb) z katalogu CommandFiles.
+Plik wynikowy znajduje się w katalogu AnalysisData (clean_weather.csv)
+W każdym wierszu zawarte są informację pogodowe na temat: 
+id_ -> id stacji pomiarowej
+year, month, day -> rok, miesiąc i dzień pomiaru
+type -> typ mierzonej danej (TMIN, TMAX - temperatura minimalna i maksymalna w stopniach Kelwina, PRCP - intensywność opadów atmosferycznych w mm)
+value -> wartość mieżonej zmiennej pomiarowej
+
